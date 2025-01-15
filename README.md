@@ -1,2 +1,2 @@
 # StudentList
-Fundamentals of Software Design and Development (SYST17796) Notes
+Notes/Exercises- Fundamentals of Software Design and Development (SYST17796)
